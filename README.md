@@ -6,4 +6,7 @@ Computer Vision class of Korea University (Prof. Christian Wallraven)
 
 ## Par2: Renderer
 
+![](https://github.com/TooTouch/KU-ComputeVision/blob/main/renderer.gif)
+
 ### Bonus
+![](https://github.com/TooTouch/KU-ComputeVision/blob/main/polygon.gif)
