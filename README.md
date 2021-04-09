@@ -11,4 +11,6 @@ Computer Vision class of Korea University (Prof. Christian Wallraven)
 
 # Assianment2
 
-## Image Filter Experiment
+## Result
+
+![](https://github.com/TooTouch/KU-ComputerVision/blob/main/Assignment2/renderer.gif)
