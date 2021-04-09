@@ -31,10 +31,12 @@ Computer Vision class of Korea University (Prof. Christian Wallraven)
 
 The results can be interpreted from two perspectives. The first is a comparison of time changes as filter size changes in my filter function. The second is the comparison of computation time between the two functions.
 
-First of all, There is no big difference when the filter size is 3,5,9, but it took longer from 15 in my filter function. I think the amount of time spent on the filter increases linearly. The correlation between the filter size and the total operation is closed to one for a 500 x 500 pixels gray-scale image (figure 1). The reason is that the number of the filter weights increases with $n^2$ (eq. 1), but the number of operations between the image and the filter decreases (eq. 2) as follows. 
+First of all, There is no big difference when the filter size is 3,5,9, but it took longer from 15 in my filter function. I think the amount of time spent on the filter increases linearly. The correlation between the filter size and the total operation is closed to one for a 500 x 500 pixels gray-scale image (figure 1). The reason is that the number of the filter weights increases with <img alt="formula" src="https://render.githubusercontent.com/render/math?math=n^2" /> (eq. 1), but the number of operations between the image and the filter decreases (eq. 2) as follows. 
 
-$$the\ number\ of\ filter\ weights  = n^2 \tag{eq. 1}$$ 
-$$the\ number\ of\ operation = (w - n + 1) \times (h - n + 1) \tag{eq. 2}$$
+<p align='center'>
+    <img src="https://render.githubusercontent.com/render/math?math=the%5C%20number%5C%20of%5C%20filter%5C%20weights%20%20%3D%20n%5E2%20%5Ctag%7BEq.%201%7D"> (eq. 1)<br>  
+    <img src="https://render.githubusercontent.com/render/math?math=the%5C%20number%5C%20of%5C%20operation%20%3D%20(w%20-%20n%20%2B%201)%20%5Ctimes%20(h%20-%20n%20%2B%201)"> (eq. 2)
+</p>
 
 where `h` is a image height and `w` is a image weight. `n` is a filter size.
 
