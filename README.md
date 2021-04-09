@@ -4,6 +4,9 @@ Computer Vision class of Korea University (Prof. Christian Wallraven)
 
 # Assignment1
 
+Answer1 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment1/sphere.ipynb)
+Answer2 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment1/renderer.ipynb)
+
 ## Result 1
 
 | Lambertian Reflectance | Projection |
