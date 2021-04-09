@@ -1,11 +1,14 @@
 # KU-ComputerVision
 Computer Vision class of Korea University (Prof. Christian Wallraven)
 
+# Members
+- Jaehyuk Heo 2021020630 (DSBA Lab)
+- Hyeongwon Kang 2021020634 (DSBA Lab)
 
 # Assignment1
 
-Answer1 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment1/sphere.ipynb)
-Answer2 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment1/renderer.ipynb)
+- Answer1 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment1/sphere.ipynb)
+- Answer2 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment1/renderer.ipynb)
 
 ## Result 1
 
@@ -18,6 +21,8 @@ Answer2 [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/ma
 ![](https://github.com/TooTouch/KU-ComputerVision/blob/main/Assignment1/renderer.gif)
 
 # Assianment2
+
+- Answer [jupyter notebook](https://github.com/TooTouch/KU-ComputerVision/tree/main/Assignment2/filtering.ipynb)
 
 ## Result
 
