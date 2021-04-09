@@ -38,10 +38,10 @@ $$the\ number\ of\ operation = (w - n + 1) \times (h - n + 1) \tag{eq. 2}$$
 
 where `h` is a image height and `w` is a image weight. `n` is a filter size.
 
-<div align='center'>
-    <img src='https://github.com/TooTouch/KU-ComputerVision/blob/main/Assignment2/corr_op_f.jpg'>
+<p align='center'>
+    <img src='https://github.com/TooTouch/KU-ComputerVision/blob/main/Assignment2/corr_op_f.jpg'><br>
     Figure 1. the correlation between the filter size and the number of total operation
-</div>
+</p>
 
 As a result, the compututation time is affected by other factors
 
