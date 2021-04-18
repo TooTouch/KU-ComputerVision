@@ -1,9 +1,9 @@
 # KU-ComputerVision
-Computer Vision class of Korea University (Prof. Christian Wallraven)
+Computer Vision class of Korea University ([Prof. Christian Wallraven](https://koreauniv.pure.elsevier.com/en/persons/christian-wallraven))
 
 # Members
-- Jaehyuk Heo 2021020630 (DSBA Lab)
-- Hyeongwon Kang 2021020634 (DSBA Lab)
+- Jaehyuk Heo 2021020630 ([DSBA Lab](http://dsba.korea.ac.kr)) [[Blog](https://tootouch.github.io) | [Github](https://github.com/TooTouch)]
+- Hyeongwon Kang 2021020634 ([DSBA Lab](http://dsba.korea.ac.kr)) [[Blog](https://hwk0702.github.io) | [Github](https://github.com/hwk0702)]
 
 # Assignment1
 
